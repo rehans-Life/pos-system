@@ -61,7 +61,7 @@ export class CartService {
   }
 
   clearCart() {
-    this.cartSub = new ReplaySubject();
+    this.cartSub = new ReplaySubject<Action>();
 
     this.cartObs = this.cartSub.pipe(
       scan((acc: Product[], curr: Action) => {
