@@ -1,0 +1,33 @@
+<div class="container">
+  <h1 class="heading">Signup</h1>
+  <form (ngSubmit)="onSubmit()" class="form" [formGroup]="authForm">
+    <app-input
+      label="Email"
+      type="email"
+      [control]="authForm.get('email')"
+    ></app-input>
+    <app-input
+      [label]="'Password'"
+      type="password"
+      [control]="authForm.get('password')"
+    ></app-input>
+    <app-input
+      type="password"
+      [label]="'Password Confirmation'"
+      [control]="authForm.get('confirmPassword')"
+    ></app-input>
+    <div class="not-match" *ngIf="showError()">
+      <p *ngIf="authForm.errors.passwordsDontMatch">Passwords Dont Match</p>
+      <p *ngIf="authForm.errors.noConnection">
+        No Internet Connection, Please try again later
+      </p>
+      <p *ngIf="authForm.errors.unexpectedError">
+        Failed to SignIn, Please try again later
+      </p>
+    </div>
+    <button [disabled]="authForm.invalid" class="auth-btn" type="submit">
+      Signup
+    </button>
+    <a [routerLink]="['/']" class="signin">Already have an Account</a>
+  </form>
+</div>

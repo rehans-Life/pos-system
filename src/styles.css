@@ -1,1 +1,104 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,400;1,600;1,700;1,800&family=Roboto:wght@100;300;400;500;700&display=swap");
+body {
+  font-size: 14px;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Poppins;
+}
+
+.heading {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3.25rem;
+  letter-spacing: -3px;
+  font-weight: 900;
+  color: black;
+  margin: 1.5rem;
+}
+
+@media screen and (max-width: 800px) {
+  .heading {
+    font-size: 3rem;
+    margin: 0.25rem;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.update {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  column-gap: 5px;
+}
+
+.update div:nth-child(odd) {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 100%;
+  padding: 2px;
+  width: 13px;
+  height: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.update div:nth-child(even) {
+  margin: 0 2px;
+}
+
+.auth-btn {
+  background-color: rgb(19, 18, 18);
+  font-size: 16px;
+  color: white;
+  padding: 8px;
+  width: 40%;
+  cursor: pointer;
+  transition: all ease-in 200ms;
+  margin: 10px 0;
+}
+
+.auth-btn:hover {
+  background-color: rgb(19, 18, 18, 0.9);
+}
+
+.not-match {
+  border: 1px solid rgb(248, 2, 2);
+  width: fit-content;
+  padding: 4px 8px;
+  font-size: 13px;
+  position: relative;
+  border-radius: 5px;
+  color: rgb(248, 2, 2);
+  margin: 20px 0 0 0;
+  text-align: center;
+}
+.not-match::before {
+  content: "";
+  width: 13px;
+  height: 13px;
+  border-top: 1px solid rgb(248, 2, 2);
+  border-left: 1px solid rgb(248, 2, 2);
+  position: absolute;
+  background: white;
+  top: -8px;
+  left: 47%;
+  transform: rotate(45deg);
+}

@@ -1,0 +1,131 @@
+.sidebar {
+  position: fixed;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: white;
+  width: 300px;
+  z-index: 100;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.2);
+  transition: all ease-out 200ms;
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 15px 0;
+}
+
+.close {
+  display: flex;
+  position: absolute;
+  left: 5px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.cart-details {
+  background-color: rgb(16, 15, 15);
+  flex: 1;
+  position: relative;
+  margin-top: 10px;
+  border-top-left-radius: 30px;
+  position: relative;
+  border-top-right-radius: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.cart {
+  display: flex;
+  flex-direction: column;
+  padding: 14px 7px;
+  margin: 10px 0;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  flex: 1;
+  max-height: 375px !important;
+  overflow-y: scroll;
+}
+
+.cart::-webkit-scrollbar {
+  display: none;
+}
+
+.cart-item {
+  display: flex;
+  align-items: flex-start;
+  padding: 5px;
+  border-radius: 7px;
+  margin: 5px;
+  color: #333;
+  background-color: whitesmoke;
+  box-shadow: 1px 1px 10px 1px rgb(242, 242, 242, 0.4);
+}
+
+.cart-item img {
+  width: 50px;
+  border-radius: 5px;
+  height: 50px;
+  object-fit: contain;
+}
+
+.info {
+  font-size: 12px;
+  font-weight: 500;
+  margin-left: 3px;
+}
+.price {
+  font-weight: 700;
+}
+
+.total {
+  background-color: #292525;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  padding: 14px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.amount {
+  color: #646161;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+  font-size: 1.5rem;
+  font-family: Poppins;
+}
+
+.divider {
+  border-bottom: 1px solid #3b3b3b;
+  margin: 7px 0;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px 0;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 18px;
+  font-family: Poppins;
+  background-color: rgb(254, 82, 20);
+  color: white;
+  transition: all ease-in 200ms;
+}
+
+.btn:hover {
+  box-shadow: 1px 1px 5px 2px rgba(256, 256, 256, 0.1);
+}

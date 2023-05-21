@@ -1,0 +1,11 @@
+<div class="card">
+  <img [src]="image" class="card-img" />
+  <p class="category">{{ category }}</p>
+  <p class="title">{{ title }}</p>
+  <div class="more">
+    <p class="price">{{ price | currency }}</p>
+    <button mat-icon-button (click)="add.emit()">
+      <mat-icon>shopping_cart</mat-icon>
+    </button>
+  </div>
+</div>

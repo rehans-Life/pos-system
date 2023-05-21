@@ -1,0 +1,33 @@
+.header {
+  background-color: black;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 16;
+  color: white;
+  display: flex;
+  padding: 5px 10px;
+  align-items: center;
+}
+
+.example-spacer {
+  flex: 1;
+}
+
+.main {
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-top: 5px;
+  font-family: Poppins;
+}
+
+button {
+  margin: 0 5px;
+}
+
+@media screen and (max-width: 800px) {
+  button {
+    margin: 0 2px;
+  }
+}

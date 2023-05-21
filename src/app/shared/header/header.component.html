@@ -1,0 +1,21 @@
+<div class="header">
+  <button
+    mat-icon-button
+    [routerLink]="['/products']"
+    class="example-icon"
+    aria-label="Example icon-button with share icon"
+  >
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span class="main">Ecommerce Store</span>
+  <span class="example-spacer"></span>
+  <button mat-icon-button [routerLink]="['/', 'chart']">
+    <mat-icon>trending_up</mat-icon>
+  </button>
+  <button mat-icon-button (click)="showSidebar()">
+    <mat-icon>shopping_cart</mat-icon>
+  </button>
+  <button mat-icon-button [routerLink]="['/', 'signout']">
+    <mat-icon>keyboard_return</mat-icon>
+  </button>
+</div>

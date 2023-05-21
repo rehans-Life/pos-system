@@ -1,0 +1,28 @@
+<h1 class="heading">Shop Products</h1>
+<form [formGroup]="paramsForm" class="params">
+  <div *ngFor="let category of categories" class="category">
+    <input
+      [id]="category"
+      type="radio"
+      [value]="category"
+      [formControlName]="'category'"
+    />
+    <label [for]="category">{{ category }}</label>
+  </div>
+  <div class="sort">
+    <select id="sort" [formControlName]="'sort'">
+      <option value="asc">ASC</option>
+      <option value="desc">DESC</option>
+    </select>
+  </div>
+</form>
+<div class="products">
+  <app-product-card
+    (add)="addToCart(product.id)"
+    [category]="product.category"
+    [title]="product.title"
+    [image]="product.image"
+    [price]="product.price"
+    *ngFor="let product of products"
+  ></app-product-card>
+</div>

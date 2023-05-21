@@ -1,0 +1,1342 @@
+[
+    {
+        "productId": 1,
+        "yearlySalesTotal": 7152,
+        "yearlyTotalSoldUnits": 1414,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 574,
+                "totalUnits": 93
+            },
+            {
+                "month": "february",
+                "totalSales": 290,
+                "totalUnits": 337
+            },
+            {
+                "month": "march",
+                "totalSales": 947,
+                "totalUnits": 182
+            },
+            {
+                "month": "april",
+                "totalSales": 774,
+                "totalUnits": 490
+            },
+            {
+                "month": "may",
+                "totalSales": 707,
+                "totalUnits": 320
+            },
+            {
+                "month": "june",
+                "totalSales": 468,
+                "totalUnits": 3
+            },
+            {
+                "month": "july",
+                "totalSales": 346,
+                "totalUnits": 15
+            },
+            {
+                "month": "august",
+                "totalSales": 838,
+                "totalUnits": 456
+            },
+            {
+                "month": "september",
+                "totalSales": 193,
+                "totalUnits": 341
+            },
+            {
+                "month": "october",
+                "totalSales": 76,
+                "totalUnits": 231
+            },
+            {
+                "month": "november",
+                "totalSales": 305,
+                "totalUnits": 219
+            },
+            {
+                "month": "december",
+                "totalSales": 90,
+                "totalUnits": 1
+            }
+        ]
+    },
+    {
+        "productId": 2,
+        "yearlySalesTotal": 2192,
+        "yearlyTotalSoldUnits": 1169,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 738,
+                "totalUnits": 275
+            },
+            {
+                "month": "february",
+                "totalSales": 938,
+                "totalUnits": 71
+            },
+            {
+                "month": "march",
+                "totalSales": 24,
+                "totalUnits": 400
+            },
+            {
+                "month": "april",
+                "totalSales": 423,
+                "totalUnits": 174
+            },
+            {
+                "month": "may",
+                "totalSales": 875,
+                "totalUnits": 238
+            },
+            {
+                "month": "june",
+                "totalSales": 376,
+                "totalUnits": 471
+            },
+            {
+                "month": "july",
+                "totalSales": 364,
+                "totalUnits": 78
+            },
+            {
+                "month": "august",
+                "totalSales": 510,
+                "totalUnits": 223
+            },
+            {
+                "month": "september",
+                "totalSales": 395,
+                "totalUnits": 109
+            },
+            {
+                "month": "october",
+                "totalSales": 279,
+                "totalUnits": 68
+            },
+            {
+                "month": "november",
+                "totalSales": 604,
+                "totalUnits": 174
+            },
+            {
+                "month": "december",
+                "totalSales": 701,
+                "totalUnits": 422
+            }
+        ]
+    },
+    {
+        "productId": 3,
+        "yearlySalesTotal": 4356,
+        "yearlyTotalSoldUnits": 4305,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 606,
+                "totalUnits": 471
+            },
+            {
+                "month": "february",
+                "totalSales": 688,
+                "totalUnits": 15
+            },
+            {
+                "month": "march",
+                "totalSales": 563,
+                "totalUnits": 293
+            },
+            {
+                "month": "april",
+                "totalSales": 39,
+                "totalUnits": 300
+            },
+            {
+                "month": "may",
+                "totalSales": 573,
+                "totalUnits": 219
+            },
+            {
+                "month": "june",
+                "totalSales": 226,
+                "totalUnits": 206
+            },
+            {
+                "month": "july",
+                "totalSales": 638,
+                "totalUnits": 223
+            },
+            {
+                "month": "august",
+                "totalSales": 884,
+                "totalUnits": 401
+            },
+            {
+                "month": "september",
+                "totalSales": 118,
+                "totalUnits": 151
+            },
+            {
+                "month": "october",
+                "totalSales": 307,
+                "totalUnits": 265
+            },
+            {
+                "month": "november",
+                "totalSales": 997,
+                "totalUnits": 351
+            },
+            {
+                "month": "december",
+                "totalSales": 234,
+                "totalUnits": 462
+            }
+        ]
+    },
+    {
+        "productId": 4,
+        "yearlySalesTotal": 9976,
+        "yearlyTotalSoldUnits": 3579,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 298,
+                "totalUnits": 394
+            },
+            {
+                "month": "february",
+                "totalSales": 261,
+                "totalUnits": 435
+            },
+            {
+                "month": "march",
+                "totalSales": 756,
+                "totalUnits": 209
+            },
+            {
+                "month": "april",
+                "totalSales": 985,
+                "totalUnits": 404
+            },
+            {
+                "month": "may",
+                "totalSales": 247,
+                "totalUnits": 464
+            },
+            {
+                "month": "june",
+                "totalSales": 853,
+                "totalUnits": 134
+            },
+            {
+                "month": "july",
+                "totalSales": 264,
+                "totalUnits": 433
+            },
+            {
+                "month": "august",
+                "totalSales": 290,
+                "totalUnits": 195
+            },
+            {
+                "month": "september",
+                "totalSales": 186,
+                "totalUnits": 401
+            },
+            {
+                "month": "october",
+                "totalSales": 194,
+                "totalUnits": 275
+            },
+            {
+                "month": "november",
+                "totalSales": 534,
+                "totalUnits": 131
+            },
+            {
+                "month": "december",
+                "totalSales": 680,
+                "totalUnits": 234
+            }
+        ]
+    },
+    {
+        "productId": 5,
+        "yearlySalesTotal": 3602,
+        "yearlyTotalSoldUnits": 1491,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 405,
+                "totalUnits": 384
+            },
+            {
+                "month": "february",
+                "totalSales": 740,
+                "totalUnits": 210
+            },
+            {
+                "month": "march",
+                "totalSales": 665,
+                "totalUnits": 206
+            },
+            {
+                "month": "april",
+                "totalSales": 15,
+                "totalUnits": 423
+            },
+            {
+                "month": "may",
+                "totalSales": 83,
+                "totalUnits": 198
+            },
+            {
+                "month": "june",
+                "totalSales": 257,
+                "totalUnits": 337
+            },
+            {
+                "month": "july",
+                "totalSales": 957,
+                "totalUnits": 118
+            },
+            {
+                "month": "august",
+                "totalSales": 225,
+                "totalUnits": 6
+            },
+            {
+                "month": "september",
+                "totalSales": 528,
+                "totalUnits": 437
+            },
+            {
+                "month": "october",
+                "totalSales": 915,
+                "totalUnits": 429
+            },
+            {
+                "month": "november",
+                "totalSales": 458,
+                "totalUnits": 346
+            },
+            {
+                "month": "december",
+                "totalSales": 42,
+                "totalUnits": 227
+            }
+        ]
+    },
+    {
+        "productId": 6,
+        "yearlySalesTotal": 4819,
+        "yearlyTotalSoldUnits": 4228,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 682,
+                "totalUnits": 269
+            },
+            {
+                "month": "february",
+                "totalSales": 565,
+                "totalUnits": 199
+            },
+            {
+                "month": "march",
+                "totalSales": 136,
+                "totalUnits": 212
+            },
+            {
+                "month": "april",
+                "totalSales": 149,
+                "totalUnits": 459
+            },
+            {
+                "month": "may",
+                "totalSales": 709,
+                "totalUnits": 36
+            },
+            {
+                "month": "june",
+                "totalSales": 939,
+                "totalUnits": 262
+            },
+            {
+                "month": "july",
+                "totalSales": 916,
+                "totalUnits": 241
+            },
+            {
+                "month": "august",
+                "totalSales": 547,
+                "totalUnits": 94
+            },
+            {
+                "month": "september",
+                "totalSales": 764,
+                "totalUnits": 453
+            },
+            {
+                "month": "october",
+                "totalSales": 348,
+                "totalUnits": 286
+            },
+            {
+                "month": "november",
+                "totalSales": 849,
+                "totalUnits": 389
+            },
+            {
+                "month": "december",
+                "totalSales": 480,
+                "totalUnits": 13
+            }
+        ]
+    },
+    {
+        "productId": 7,
+        "yearlySalesTotal": 4091,
+        "yearlyTotalSoldUnits": 4832,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 866,
+                "totalUnits": 189
+            },
+            {
+                "month": "february",
+                "totalSales": 35,
+                "totalUnits": 104
+            },
+            {
+                "month": "march",
+                "totalSales": 937,
+                "totalUnits": 325
+            },
+            {
+                "month": "april",
+                "totalSales": 574,
+                "totalUnits": 39
+            },
+            {
+                "month": "may",
+                "totalSales": 239,
+                "totalUnits": 304
+            },
+            {
+                "month": "june",
+                "totalSales": 932,
+                "totalUnits": 263
+            },
+            {
+                "month": "july",
+                "totalSales": 238,
+                "totalUnits": 427
+            },
+            {
+                "month": "august",
+                "totalSales": 658,
+                "totalUnits": 447
+            },
+            {
+                "month": "september",
+                "totalSales": 419,
+                "totalUnits": 470
+            },
+            {
+                "month": "october",
+                "totalSales": 299,
+                "totalUnits": 135
+            },
+            {
+                "month": "november",
+                "totalSales": 415,
+                "totalUnits": 396
+            },
+            {
+                "month": "december",
+                "totalSales": 291,
+                "totalUnits": 319
+            }
+        ]
+    },
+    {
+        "productId": 8,
+        "yearlySalesTotal": 6435,
+        "yearlyTotalSoldUnits": 4627,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 558,
+                "totalUnits": 206
+            },
+            {
+                "month": "february",
+                "totalSales": 394,
+                "totalUnits": 99
+            },
+            {
+                "month": "march",
+                "totalSales": 440,
+                "totalUnits": 239
+            },
+            {
+                "month": "april",
+                "totalSales": 676,
+                "totalUnits": 223
+            },
+            {
+                "month": "may",
+                "totalSales": 112,
+                "totalUnits": 416
+            },
+            {
+                "month": "june",
+                "totalSales": 451,
+                "totalUnits": 19
+            },
+            {
+                "month": "july",
+                "totalSales": 1000,
+                "totalUnits": 346
+            },
+            {
+                "month": "august",
+                "totalSales": 798,
+                "totalUnits": 441
+            },
+            {
+                "month": "september",
+                "totalSales": 652,
+                "totalUnits": 340
+            },
+            {
+                "month": "october",
+                "totalSales": 816,
+                "totalUnits": 164
+            },
+            {
+                "month": "november",
+                "totalSales": 874,
+                "totalUnits": 163
+            },
+            {
+                "month": "december",
+                "totalSales": 230,
+                "totalUnits": 146
+            }
+        ]
+    },
+    {
+        "productId": 9,
+        "yearlySalesTotal": 3309,
+        "yearlyTotalSoldUnits": 2331,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 118,
+                "totalUnits": 317
+            },
+            {
+                "month": "february",
+                "totalSales": 47,
+                "totalUnits": 181
+            },
+            {
+                "month": "march",
+                "totalSales": 810,
+                "totalUnits": 498
+            },
+            {
+                "month": "april",
+                "totalSales": 230,
+                "totalUnits": 455
+            },
+            {
+                "month": "may",
+                "totalSales": 353,
+                "totalUnits": 15
+            },
+            {
+                "month": "june",
+                "totalSales": 799,
+                "totalUnits": 409
+            },
+            {
+                "month": "july",
+                "totalSales": 56,
+                "totalUnits": 440
+            },
+            {
+                "month": "august",
+                "totalSales": 158,
+                "totalUnits": 90
+            },
+            {
+                "month": "september",
+                "totalSales": 459,
+                "totalUnits": 374
+            },
+            {
+                "month": "october",
+                "totalSales": 162,
+                "totalUnits": 169
+            },
+            {
+                "month": "november",
+                "totalSales": 102,
+                "totalUnits": 74
+            },
+            {
+                "month": "december",
+                "totalSales": 338,
+                "totalUnits": 129
+            }
+        ]
+    },
+    {
+        "productId": 10,
+        "yearlySalesTotal": 5264,
+        "yearlyTotalSoldUnits": 1782,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 635,
+                "totalUnits": 368
+            },
+            {
+                "month": "february",
+                "totalSales": 732,
+                "totalUnits": 2
+            },
+            {
+                "month": "march",
+                "totalSales": 294,
+                "totalUnits": 363
+            },
+            {
+                "month": "april",
+                "totalSales": 478,
+                "totalUnits": 82
+            },
+            {
+                "month": "may",
+                "totalSales": 438,
+                "totalUnits": 116
+            },
+            {
+                "month": "june",
+                "totalSales": 911,
+                "totalUnits": 20
+            },
+            {
+                "month": "july",
+                "totalSales": 722,
+                "totalUnits": 119
+            },
+            {
+                "month": "august",
+                "totalSales": 739,
+                "totalUnits": 55
+            },
+            {
+                "month": "september",
+                "totalSales": 646,
+                "totalUnits": 7
+            },
+            {
+                "month": "october",
+                "totalSales": 177,
+                "totalUnits": 222
+            },
+            {
+                "month": "november",
+                "totalSales": 111,
+                "totalUnits": 31
+            },
+            {
+                "month": "december",
+                "totalSales": 122,
+                "totalUnits": 284
+            }
+        ]
+    },
+    {
+        "productId": 11,
+        "yearlySalesTotal": 3238,
+        "yearlyTotalSoldUnits": 2564,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 929,
+                "totalUnits": 91
+            },
+            {
+                "month": "february",
+                "totalSales": 734,
+                "totalUnits": 44
+            },
+            {
+                "month": "march",
+                "totalSales": 709,
+                "totalUnits": 204
+            },
+            {
+                "month": "april",
+                "totalSales": 368,
+                "totalUnits": 268
+            },
+            {
+                "month": "may",
+                "totalSales": 280,
+                "totalUnits": 197
+            },
+            {
+                "month": "june",
+                "totalSales": 261,
+                "totalUnits": 388
+            },
+            {
+                "month": "july",
+                "totalSales": 369,
+                "totalUnits": 122
+            },
+            {
+                "month": "august",
+                "totalSales": 793,
+                "totalUnits": 78
+            },
+            {
+                "month": "september",
+                "totalSales": 164,
+                "totalUnits": 477
+            },
+            {
+                "month": "october",
+                "totalSales": 805,
+                "totalUnits": 349
+            },
+            {
+                "month": "november",
+                "totalSales": 667,
+                "totalUnits": 286
+            },
+            {
+                "month": "december",
+                "totalSales": 676,
+                "totalUnits": 498
+            }
+        ]
+    },
+    {
+        "productId": 12,
+        "yearlySalesTotal": 7954,
+        "yearlyTotalSoldUnits": 4999,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 692,
+                "totalUnits": 306
+            },
+            {
+                "month": "february",
+                "totalSales": 310,
+                "totalUnits": 286
+            },
+            {
+                "month": "march",
+                "totalSales": 635,
+                "totalUnits": 40
+            },
+            {
+                "month": "april",
+                "totalSales": 589,
+                "totalUnits": 60
+            },
+            {
+                "month": "may",
+                "totalSales": 714,
+                "totalUnits": 339
+            },
+            {
+                "month": "june",
+                "totalSales": 855,
+                "totalUnits": 357
+            },
+            {
+                "month": "july",
+                "totalSales": 209,
+                "totalUnits": 281
+            },
+            {
+                "month": "august",
+                "totalSales": 65,
+                "totalUnits": 106
+            },
+            {
+                "month": "september",
+                "totalSales": 184,
+                "totalUnits": 92
+            },
+            {
+                "month": "october",
+                "totalSales": 311,
+                "totalUnits": 418
+            },
+            {
+                "month": "november",
+                "totalSales": 295,
+                "totalUnits": 196
+            },
+            {
+                "month": "december",
+                "totalSales": 542,
+                "totalUnits": 414
+            }
+        ]
+    },
+    {
+        "productId": 13,
+        "yearlySalesTotal": 5826,
+        "yearlyTotalSoldUnits": 3386,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 760,
+                "totalUnits": 333
+            },
+            {
+                "month": "february",
+                "totalSales": 93,
+                "totalUnits": 335
+            },
+            {
+                "month": "march",
+                "totalSales": 594,
+                "totalUnits": 72
+            },
+            {
+                "month": "april",
+                "totalSales": 371,
+                "totalUnits": 494
+            },
+            {
+                "month": "may",
+                "totalSales": 892,
+                "totalUnits": 106
+            },
+            {
+                "month": "june",
+                "totalSales": 22,
+                "totalUnits": 38
+            },
+            {
+                "month": "july",
+                "totalSales": 556,
+                "totalUnits": 277
+            },
+            {
+                "month": "august",
+                "totalSales": 642,
+                "totalUnits": 438
+            },
+            {
+                "month": "september",
+                "totalSales": 755,
+                "totalUnits": 66
+            },
+            {
+                "month": "october",
+                "totalSales": 120,
+                "totalUnits": 41
+            },
+            {
+                "month": "november",
+                "totalSales": 534,
+                "totalUnits": 247
+            },
+            {
+                "month": "december",
+                "totalSales": 131,
+                "totalUnits": 311
+            }
+        ]
+    },
+    {
+        "productId": 14,
+        "yearlySalesTotal": 2947,
+        "yearlyTotalSoldUnits": 1203,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 686,
+                "totalUnits": 154
+            },
+            {
+                "month": "february",
+                "totalSales": 927,
+                "totalUnits": 455
+            },
+            {
+                "month": "march",
+                "totalSales": 946,
+                "totalUnits": 227
+            },
+            {
+                "month": "april",
+                "totalSales": 77,
+                "totalUnits": 137
+            },
+            {
+                "month": "may",
+                "totalSales": 272,
+                "totalUnits": 72
+            },
+            {
+                "month": "june",
+                "totalSales": 476,
+                "totalUnits": 268
+            },
+            {
+                "month": "july",
+                "totalSales": 432,
+                "totalUnits": 71
+            },
+            {
+                "month": "august",
+                "totalSales": 875,
+                "totalUnits": 60
+            },
+            {
+                "month": "september",
+                "totalSales": 88,
+                "totalUnits": 418
+            },
+            {
+                "month": "october",
+                "totalSales": 190,
+                "totalUnits": 392
+            },
+            {
+                "month": "november",
+                "totalSales": 89,
+                "totalUnits": 199
+            },
+            {
+                "month": "december",
+                "totalSales": 820,
+                "totalUnits": 58
+            }
+        ]
+    },
+    {
+        "productId": 15,
+        "yearlySalesTotal": 2128,
+        "yearlyTotalSoldUnits": 703,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 472,
+                "totalUnits": 67
+            },
+            {
+                "month": "february",
+                "totalSales": 862,
+                "totalUnits": 24
+            },
+            {
+                "month": "march",
+                "totalSales": 732,
+                "totalUnits": 287
+            },
+            {
+                "month": "april",
+                "totalSales": 996,
+                "totalUnits": 210
+            },
+            {
+                "month": "may",
+                "totalSales": 796,
+                "totalUnits": 8
+            },
+            {
+                "month": "june",
+                "totalSales": 348,
+                "totalUnits": 71
+            },
+            {
+                "month": "july",
+                "totalSales": 729,
+                "totalUnits": 175
+            },
+            {
+                "month": "august",
+                "totalSales": 811,
+                "totalUnits": 313
+            },
+            {
+                "month": "september",
+                "totalSales": 88,
+                "totalUnits": 44
+            },
+            {
+                "month": "october",
+                "totalSales": 199,
+                "totalUnits": 24
+            },
+            {
+                "month": "november",
+                "totalSales": 364,
+                "totalUnits": 373
+            },
+            {
+                "month": "december",
+                "totalSales": 301,
+                "totalUnits": 85
+            }
+        ]
+    },
+    {
+        "productId": 16,
+        "yearlySalesTotal": 7841,
+        "yearlyTotalSoldUnits": 3889,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 489,
+                "totalUnits": 324
+            },
+            {
+                "month": "february",
+                "totalSales": 674,
+                "totalUnits": 111
+            },
+            {
+                "month": "march",
+                "totalSales": 600,
+                "totalUnits": 235
+            },
+            {
+                "month": "april",
+                "totalSales": 763,
+                "totalUnits": 220
+            },
+            {
+                "month": "may",
+                "totalSales": 943,
+                "totalUnits": 376
+            },
+            {
+                "month": "june",
+                "totalSales": 164,
+                "totalUnits": 243
+            },
+            {
+                "month": "july",
+                "totalSales": 119,
+                "totalUnits": 43
+            },
+            {
+                "month": "august",
+                "totalSales": 83,
+                "totalUnits": 306
+            },
+            {
+                "month": "september",
+                "totalSales": 574,
+                "totalUnits": 276
+            },
+            {
+                "month": "october",
+                "totalSales": 606,
+                "totalUnits": 232
+            },
+            {
+                "month": "november",
+                "totalSales": 971,
+                "totalUnits": 435
+            },
+            {
+                "month": "december",
+                "totalSales": 580,
+                "totalUnits": 106
+            }
+        ]
+    },
+    {
+        "productId": 17,
+        "yearlySalesTotal": 5994,
+        "yearlyTotalSoldUnits": 2338,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 507,
+                "totalUnits": 269
+            },
+            {
+                "month": "february",
+                "totalSales": 295,
+                "totalUnits": 22
+            },
+            {
+                "month": "march",
+                "totalSales": 660,
+                "totalUnits": 276
+            },
+            {
+                "month": "april",
+                "totalSales": 56,
+                "totalUnits": 483
+            },
+            {
+                "month": "may",
+                "totalSales": 320,
+                "totalUnits": 478
+            },
+            {
+                "month": "june",
+                "totalSales": 80,
+                "totalUnits": 480
+            },
+            {
+                "month": "july",
+                "totalSales": 920,
+                "totalUnits": 262
+            },
+            {
+                "month": "august",
+                "totalSales": 848,
+                "totalUnits": 38
+            },
+            {
+                "month": "september",
+                "totalSales": 366,
+                "totalUnits": 257
+            },
+            {
+                "month": "october",
+                "totalSales": 922,
+                "totalUnits": 46
+            },
+            {
+                "month": "november",
+                "totalSales": 870,
+                "totalUnits": 446
+            },
+            {
+                "month": "december",
+                "totalSales": 185,
+                "totalUnits": 385
+            }
+        ]
+    },
+    {
+        "productId": 18,
+        "yearlySalesTotal": 5650,
+        "yearlyTotalSoldUnits": 2225,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 119,
+                "totalUnits": 100
+            },
+            {
+                "month": "february",
+                "totalSales": 16,
+                "totalUnits": 233
+            },
+            {
+                "month": "march",
+                "totalSales": 30,
+                "totalUnits": 492
+            },
+            {
+                "month": "april",
+                "totalSales": 825,
+                "totalUnits": 367
+            },
+            {
+                "month": "may",
+                "totalSales": 901,
+                "totalUnits": 16
+            },
+            {
+                "month": "june",
+                "totalSales": 595,
+                "totalUnits": 34
+            },
+            {
+                "month": "july",
+                "totalSales": 309,
+                "totalUnits": 168
+            },
+            {
+                "month": "august",
+                "totalSales": 836,
+                "totalUnits": 35
+            },
+            {
+                "month": "september",
+                "totalSales": 594,
+                "totalUnits": 258
+            },
+            {
+                "month": "october",
+                "totalSales": 640,
+                "totalUnits": 292
+            },
+            {
+                "month": "november",
+                "totalSales": 707,
+                "totalUnits": 492
+            },
+            {
+                "month": "december",
+                "totalSales": 914,
+                "totalUnits": 60
+            }
+        ]
+    },
+    {
+        "productId": 19,
+        "yearlySalesTotal": 1016,
+        "yearlyTotalSoldUnits": 2672,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 121,
+                "totalUnits": 281
+            },
+            {
+                "month": "february",
+                "totalSales": 616,
+                "totalUnits": 295
+            },
+            {
+                "month": "march",
+                "totalSales": 605,
+                "totalUnits": 79
+            },
+            {
+                "month": "april",
+                "totalSales": 143,
+                "totalUnits": 333
+            },
+            {
+                "month": "may",
+                "totalSales": 685,
+                "totalUnits": 269
+            },
+            {
+                "month": "june",
+                "totalSales": 953,
+                "totalUnits": 94
+            },
+            {
+                "month": "july",
+                "totalSales": 426,
+                "totalUnits": 100
+            },
+            {
+                "month": "august",
+                "totalSales": 467,
+                "totalUnits": 96
+            },
+            {
+                "month": "september",
+                "totalSales": 376,
+                "totalUnits": 45
+            },
+            {
+                "month": "october",
+                "totalSales": 727,
+                "totalUnits": 46
+            },
+            {
+                "month": "november",
+                "totalSales": 774,
+                "totalUnits": 240
+            },
+            {
+                "month": "december",
+                "totalSales": 451,
+                "totalUnits": 377
+            }
+        ]
+    },
+    {
+        "productId": 20,
+        "yearlySalesTotal": 7368,
+        "yearlyTotalSoldUnits": 1734,
+        "monthlyData": [
+            {
+                "month": "january",
+                "totalSales": 301,
+                "totalUnits": 330
+            },
+            {
+                "month": "february",
+                "totalSales": 46,
+                "totalUnits": 405
+            },
+            {
+                "month": "march",
+                "totalSales": 729,
+                "totalUnits": 258
+            },
+            {
+                "month": "april",
+                "totalSales": 369,
+                "totalUnits": 227
+            },
+            {
+                "month": "may",
+                "totalSales": 428,
+                "totalUnits": 433
+            },
+            {
+                "month": "june",
+                "totalSales": 864,
+                "totalUnits": 180
+            },
+            {
+                "month": "july",
+                "totalSales": 56,
+                "totalUnits": 283
+            },
+            {
+                "month": "august",
+                "totalSales": 212,
+                "totalUnits": 257
+            },
+            {
+                "month": "september",
+                "totalSales": 494,
+                "totalUnits": 143
+            },
+            {
+                "month": "october",
+                "totalSales": 983,
+                "totalUnits": 125
+            },
+            {
+                "month": "november",
+                "totalSales": 58,
+                "totalUnits": 473
+            },
+            {
+                "month": "december",
+                "totalSales": 896,
+                "totalUnits": 479
+            }
+        ]
+    }
+]

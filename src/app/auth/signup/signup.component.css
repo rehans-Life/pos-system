@@ -1,0 +1,28 @@
+:host {
+  height: 90%;
+  display: grid;
+  place-items: center;
+  width: 100%;
+}
+
+.form {
+  display: block;
+  padding: 10px;
+  width: 500px;
+}
+
+.signin {
+  text-decoration: none;
+  color: rgb(46, 112, 255);
+  font-size: 1rem;
+  width: 100%;
+  text-align: center;
+  display: block;
+  margin: 10px;
+}
+
+@media screen and (max-width: 500px) {
+  .form {
+    width: 350px;
+  }
+}

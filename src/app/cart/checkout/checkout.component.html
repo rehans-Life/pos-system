@@ -1,0 +1,49 @@
+<h1 class="heading">Checkout</h1>
+<div class="container">
+  <div class="items">
+    <div *ngFor="let item of cartItems" class="cart-item">
+      <div class="cart-content">
+        <img [src]="item.image" class="cart-img" />
+        <div class="info">
+          <p>{{ item.title }}</p>
+          <p>Category: {{ item.category }}</p>
+        </div>
+      </div>
+      <div class="numbers">
+        <div>
+          <p>Price</p>
+          <p>{{ item.price | currency }}</p>
+        </div>
+        <div>
+          <p>Quantity</p>
+          <div class="update">
+            <div (click)="cartService.removeFromCart(item)">-</div>
+            <div>{{ item.quantity }}</div>
+            <div (click)="cartService.addToCart(item)">+</div>
+          </div>
+        </div>
+        <div>
+          <p>Total</p>
+          <p>{{ item.price * item.quantity | currency }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="amount">
+    <div class="amount-card">
+      <div class="light">
+        <span>Subtotal: </span><span>{{ total | currency }}</span>
+      </div>
+      <div class="light">
+        <span>Shipping :</span><span>{{ 0 | currency }}</span>
+      </div>
+      <div class="total">
+        <span>Total :</span>
+        <span>{{ total | currency }}</span>
+      </div>
+      <div class="action">
+        <button [routerLink]="['/', 'ordercomplete']">Checkout</button>
+      </div>
+    </div>
+  </div>
+</div>

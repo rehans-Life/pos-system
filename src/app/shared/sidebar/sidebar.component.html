@@ -1,0 +1,38 @@
+<div
+  class="sidebar"
+  [ngStyle]="{
+    transform: (displaySidebar | async) ? 'translateX(0)' : 'translateX(100%)',
+    opacity: (displaySidebar | async) ? '1' : '0.5'
+  }"
+>
+  <div class="cart-head">
+    <button (click)="hideSidebar()" mat-icon-button class="close">
+      <mat-icon>close</mat-icon>
+    </button>
+    <h3>CART</h3>
+  </div>
+  <div class="cart-details">
+    <div class="cart">
+      <div *ngFor="let item of cartItems | async" class="cart-item">
+        <img [src]="item.image" />
+        <div class="info">
+          <p>{{ item.title | slice : 0 : 20 }}</p>
+          <p class="price">{{ item.price | number : "1.0-2" | currency }}</p>
+        </div>
+        <div class="update">
+          <div (click)="cartService.removeFromCart(item)">-</div>
+          <div>{{ item.quantity }}</div>
+          <div (click)="cartService.addToCart(item)">+</div>
+        </div>
+      </div>
+    </div>
+    <div class="total">
+      <div class="amount">
+        <p>Total</p>
+        <p>{{ total | async | currency }}</p>
+      </div>
+      <div class="divider"></div>
+      <button (click)="goToCheckout()" class="btn">Checkout</button>
+    </div>
+  </div>
+</div>
