@@ -16,4 +16,6 @@
 
 ## Laraval Backend Structure
 
+Github Repo: https://github.com/rehans-Life/pos-server.git
+
 ![backend](/src/assets/backend.png)
