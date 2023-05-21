@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiEndpoint: 'http://localhost:8000',
+  apiEndpoint: 'https://pos-server-production.up.railway.app',
 };
