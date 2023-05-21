@@ -28,7 +28,8 @@ export class ProductsListComponent {
 
   addToCart(id: number) {
     this.cartService.showSidebar();
-    this.cartService.addToCart(this.products[id - 1]);
+    const product = this.products.find((product) => product.id == id);
+    this.cartService.addToCart(product);
   }
 
   ngOnInit() {
