@@ -17,7 +17,6 @@ const routes: Routes = [
       {
         path: 'products',
         component: ProductsListComponent,
-        canMatch: [AuthGuard],
         resolve: {
           categories: ProductsResolverService.resolveCategories,
           products: ProductsResolverService.resolveProducts,
@@ -26,12 +25,10 @@ const routes: Routes = [
       {
         path: 'checkout',
         component: CheckoutComponent,
-        canMatch: [AuthGuard],
       },
       {
         path: 'chart',
         component: LineChartComponent,
-        canMatch: [AuthGuard],
         resolve: {
           chartData: ChartResolverService.resolve,
         },
@@ -39,7 +36,6 @@ const routes: Routes = [
       {
         path: 'ordercomplete',
         component: OrderCompleteComponent,
-        canMatch: [AuthGuard],
       },
     ],
   },
